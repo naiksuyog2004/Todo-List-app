@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "todo-list-app-71978"
+  },
+  "targets": {
+    "todo-list-app-71978": {
+      "hosting": {
+        "cwh-todo-list": [
+          "todo-list-app-71978"
+        ]
+      }
+    }
+  }
+}

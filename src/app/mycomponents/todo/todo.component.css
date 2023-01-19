@@ -1,0 +1,12 @@
+.line{
+  border-bottom: 5px solid rgb(55, 54, 54);
+  margin-top: 5px;
+  margin-bottom: 15px;
+  width: 100%;
+}
+.innerline{
+  border-bottom: 3px solid rgb(23, 2, 2);
+  margin-top: 5px;
+  margin-bottom: 15px;
+  width:11%;
+}
